@@ -9,3 +9,5 @@ Feature c
 More on feature c
 first commit to f-d
 second commit to f-d
+
+this is first commit for f-c
