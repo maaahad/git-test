@@ -7,3 +7,5 @@ Feature a added
 More functionalities added related to feature a
 Feature c
 More on feature c
+
+this is first commit for f-c
