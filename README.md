@@ -5,3 +5,5 @@ More on feature b
 
 Feature a added 
 More functionalities added related to feature a
+Feature c
+More on feature c
