@@ -15,4 +15,3 @@ this is second commit for f-c
 this is third commit for f-c
 
 This is fist commit to revert-test
-this is the commit should be reverted
